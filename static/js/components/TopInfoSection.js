@@ -11,7 +11,7 @@ const TopInfoSection = () => {
                         <a href='https://twitter.com/NFT_Broccoli' target='_blank'><img src='/assets/images/twitter.png' height='45' /></a>
                         <a href='https://discord.gg/h8T6p8qgQT' target='_blank'><img src='/assets/images/discord.png' height='45' /></a>
                         <a href='https://opensea.io/collection/broccoli-club' target='_blank'><img src='/assets/images/opensea.png' height='45' /></a>
-                        <a href='https://polygonscan.com/address/0xc84ac19ee8856a0f2879a6a1dfcd1225a9057088' target='_blank'><img src='/assets/images/matic.svg' height='45' /></a>
+                        <a href='https://polygonscan.com/address/0x95bce67825ea24b632c97b0393f1789a479b3878' target='_blank'><img src='/assets/images/matic.svg' height='45' /></a>
                        
                     </div>
                 </div>
